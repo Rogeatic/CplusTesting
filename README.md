@@ -1,32 +1,30 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{I wanted to test my ability with c++, because I hadn't used it in a while and I thought it would be usefull to get everything all set up.}
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+{I made some very inneficient code that just basically gets an input, then calls a function that prints the amount, and counts to it.}
 
-{Describe your purpose for writing this software.}
+{My main purpose here was to test myself and see if I still remember the syntax. I defitely had to google some stuff, but I did it without any bugs.}
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nB7MAOaHsqc)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{I had to get the extension for c++ in visual Studio Code}
 
-{Describe the programming language that you used and any libraries.}
+{Obviously I used C++, but I had to also make sure the Cude Runner was enabled. I was suprised how much Apple/Microsoft had improved the C++ experience on M1}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+{Here's the helpful websites I used}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3 schools](https://www.w3schools.com/cpp/cpp_classes.asp)
+- [cplusplus.com](https://cplusplus.com/forum/beginner/147710/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+{Here's the things I should add}
 
-- Item 1
-- Item 2
-- Item 3
+- I could add a GPA checker
+- Maybe I could make it run better
+- I should probably learn about pointers...
